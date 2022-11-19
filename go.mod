@@ -1,4 +1,4 @@
-module go.k6.io/xk6
+module github.com/shlsky/xk6
 
 go 1.16
 
